@@ -1,0 +1,6 @@
+/node_modules
+/cypress/results
+package-lock.json
+report.json
+cypress/videos
+/.vscode
